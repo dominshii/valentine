@@ -42,7 +42,7 @@ export default function Page() {
     <div className="overflow-hidden flex flex-col items-center justify-center pt-4 h-screen -mt-16 selection:bg-rose-600 selection:text-white text-zinc-900">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+          <img src="https://media.tenor.com/8ZbT0qLI9V4AAAAj/%E3%81%93%E3%81%99%E3%82%8A%E3%81%82%E3%81%86-%E6%A5%BD%E3%81%97%E3%81%84.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
             Yayyyyy!!! I know you would say yes my wubb! I wubb youu ❤️
           </div>
@@ -59,8 +59,9 @@ export default function Page() {
           />
           <img
             className="h-[230px] rounded-lg shadow-lg"
-            src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
-          />
+            src="https://media.tenor.com/TKmNZjp_He0AAAAj/lovely-romantic.gif"
+            
+            />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
             Will you be my Valentine my wubwuubb?
           </h1>
